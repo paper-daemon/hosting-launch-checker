@@ -1,7 +1,7 @@
 window.AFFILIATE_OFFERS = [
   {
     "label": "お名前.com（ドメイン / サーバー）",
-    "url": "https://px.a8.net/svt/ejp?a8mat=4BA5LD+4SNQ7M+50+2I3IZ5",
+    "url": "https://px.a8.net/svt/ejp?a8mat=4BA5LD+4SNQ7M+50+2HHVNM",
     "enabled": true
   }
 ];
