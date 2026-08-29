@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paper-daemon.github.io/hosting-launch-checker/sitemap.xml
