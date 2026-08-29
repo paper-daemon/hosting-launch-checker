@@ -5,3 +5,7 @@
 
 ## Affiliate policy
 The tool stays useful without affiliate links. Only approved programs may be enabled, with clear disclosure. Unapproved services use normal official links or no link.
+
+
+## Current monetization
+承認済みプログラムだけを広告表記付きで有効化します。診断・チェック機能は広告リンクなしでも利用できます。
